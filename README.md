@@ -4,11 +4,11 @@ Seat reservation system
 
 Input Format:
 Enter the Design and booking request
-Type 'done' when completed 
+Type 'close' when completed 
 
-1 3 5 7
-2 4 6
-
+1 3 5 7\n
+2 4 6\n
+\n
 Ram 4
 close
 
